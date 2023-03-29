@@ -1,0 +1,9 @@
+Click
+Flask
+Flask-sqlalchemy==2.5.1
+Flask-restx
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy==1.4
+Werkzeug
