@@ -21,4 +21,4 @@ COPY /templates/update.html ./
 EXPOSE 5000
 WORKDIR /app
 
-CMD [ "flask", "--app","app.py","run","--host","0.0.0.0","--port","5001"]
+CMD [ "flask", "--app","app.py","run","--host","0.0.0.0","--port","5000"]
